@@ -5,4 +5,9 @@
 ##### Header 5
 ###### Header 6 
 
-![Image of something from GitHub] (https://octodex.github.com/images/yaktocat.png)
+![Image of something from github](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
